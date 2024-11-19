@@ -176,7 +176,7 @@ Future improvements to enhance the app:
 # Contact
 For feedback or inquiries, feel free to reach out:
 
-
+----------------------------------------------------------------------------------ESPAÑOL---------------------------------------------------------------------------------------------------------------------------
 
 # DebReminder
 DebReminder es una aplicación de tareas pendiente potente e intuitiva diseñada para entusiastas de la productividad. Construida con SwiftUI, la aplicación proporciona una experiencia fluida para gestionar tareas, realizar un seguimiento de los plazos y mantenerse organizado. El proyecto utiliza SwiftData para el almacenamiento persistente de datos y sigue la arquitectura MVVM, asegurando un código limpio, mantenible y escalable.
@@ -362,9 +362,16 @@ Mejoras futuras para la aplicación:
 
  **Seguimiento de progreso:** Visualización de las tasas de finalización de tareas.
 
-#Contacto
+# Contacto
 
 Para consultas o comentarios, contáctame:
+
+
+## Authors
+
+### Author: Debora Huilen Monteverde
+### Email: debora.monteverde97@gmail.com
+### GitHub: Debohmonte
 
 
 
